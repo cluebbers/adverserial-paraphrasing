@@ -1,23 +1,8 @@
 # Evaluating Refusal Robustness in LLaMA 3.1 8B under Adversarial Paraphrasing
 
-## 1. Research Goal
+## Introduction  
 
 This project investigates how paraphrased versions of harmful prompts affect the refusal behavior of LLaMA 3.1 8B. Models are often evaluated using canonical unsafe prompts, yet real-world use involves diverse linguistic variations that could bypass these defenses. We will analyze whether small language models generalize refusal behavior across lexical, syntactic, and semantic paraphrase types. This research aims to expose brittleness in current alignment techniques and provide a lightweight testbed for safety benchmarking. It is relevant for red-teamers, alignment researchers, and AI safety engineers focused on robustness and adversarial evaluation.
-
----
-
-## 2. Outline of the Final Report
-
-### Title  
-**Evaluating Refusal Robustness in LLaMA 3.1 8B under Adversarial Paraphrasing**
-
----
-
-### Introduction  
-- Motivation: Why refusal behavior is critical to LLM safety  
-- Problem: Canonical prompts do not reflect realistic attack surface  
-- Goal: Test whether reworded harmful prompts reliably bypass refusal in LLaMA 3.1 8B  
-- Relevance: Links to robustness evaluation, red-teaming, and surface-level alignment concerns
 
 ---
 
