@@ -1,6 +1,7 @@
 # Adversarial Paraphrasing Red-Teaming for LLaMA, Mistral & Pythia
 
-This repository delivers a reproducible pipeline to evaluate and improve “refusal” behavior in three open-weight LLMs—LLaMA-3.1-8B, Mistral-7B-v0.1, and Pythia-6.9B—under adversarial paraphrasing. [Full technical report (PDF)](2025-05-09_Luebbers_report.pdf)
+This repository delivers a reproducible pipeline to evaluate and improve “refusal” behavior in three open-weight LLMs—LLaMA-3.1-8B, Mistral-7B-v0.1, and Pythia-6.9B—under adversarial paraphrasing. [Full technical report (PDF)](2025-05-09_Luebbers_report.pdf).
+Trained adapters can be found on [Huggingface](https://huggingface.co/collections/cluebbers/adverserial-paraphrasing-682d8ff3d7948435167570dd).
 
 ## 🚀 Key Features
 
