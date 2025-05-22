@@ -2,6 +2,7 @@
 
 This repository delivers a reproducible pipeline to evaluate and improve “refusal” behavior in three open-weight LLMs—LLaMA-3.1-8B, Mistral-7B-v0.1, and Pythia-6.9B—under adversarial paraphrasing. [Full technical report (PDF)](2025-05-09_Luebbers_report.pdf).
 Trained adapters can be found on [Huggingface](https://huggingface.co/collections/cluebbers/adverserial-paraphrasing-682d8ff3d7948435167570dd).
+This project was done for the spring 2025 cohort of [AI Safety, Ethics and Society](https://app.verifyed.io/certificate/ai-safety-ethics-society-3163172?activeSection=certificate).
 
 ## 🚀 Key Features
 
